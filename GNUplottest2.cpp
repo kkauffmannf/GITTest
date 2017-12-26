@@ -24,7 +24,7 @@ int main() {
 		double y = x*x*x;
 		xy_pts_A.push_back(std::make_pair(x, y));
 	}
-
+hola hoalsqlahdcaskjfhwlkegf	ñwueg
 	std::vector<std::pair<double, double> > xy_pts_B;
 	for(double alpha=0; alpha<1; alpha+=1.0/24.0) {
 		double theta = alpha*2.0*3.14159;
